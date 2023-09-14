@@ -1,16 +1,30 @@
-# github-profile-summary-cards-example
+### Hi, I'm Slavko Muždeka 👋
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+Welcome to my GitHub profile! I'm a Software Engineering student with a boundless passion for computer science and software development.
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+## 🔧 GitHub Profile Summary Cards
 
-```To create your profile README you need to name the repo as your username```
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slavko00&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slavko00&theme=2077&exclude=exclude)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slavko00&theme=2077&exclude=exclude)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+## 📚 What I'm Currently Learning
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- **Android Programming**: I'm actively exploring the world of Android app development, learning to build robust and user-friendly mobile applications.
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- **Docker and Kubernetes**: I'm diving into containerization and orchestration technologies like Docker and Kubernetes, which are crucial in modern software development and DevOps practices.
+
+- **Web3 and Blockchain**: I'm fascinated by the potential of blockchain technology and its applications. I'm learning about Web3 development and the decentralized world it offers.
+
+- **Zero-Knowledge Proofs**: I'm delving into the fascinating realm of zero-knowledge proofs, a fundamental concept in cryptography and privacy-preserving technologies.
+
+## 🌱 Lifelong Learning
+
+I believe that continuous learning is the key to staying ahead in the dynamic world of software engineering. I'm committed to expanding my knowledge and staying up-to-date with industry trends.
+
+Thanks for visiting my profile, and I'm looking forward to connecting with like-minded individuals who share my passion for technology!
+
+## 📫 How to Reach Me
+
+- Email: muzdekaslavko@gmail.com
+- Twitter: [@muzdekaa](https://twitter.com/muzdekaa)
