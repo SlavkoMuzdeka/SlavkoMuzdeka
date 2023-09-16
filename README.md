@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a Software Engineering student with a boundles
 
 ## 🔧 GitHub Profile Summary Cards
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slavko00&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slavko00&theme=2077&exclude=exclude)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slavko00&theme=2077&exclude=exclude)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slavko00&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slavko&theme=github_dark&utcOffset=+2)]()
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlavkoMuzdeka&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlavkoMuzdeka&theme=2077&exclude=exclude)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SlavkoMuzdeka&theme=2077&exclude=exclude)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlavkoMuzdeka&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlavkoMuzdeka&theme=github_dark&utcOffset=+2)]()
 
 ## 📚 What I'm Currently Learning
 
