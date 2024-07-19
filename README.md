@@ -12,10 +12,6 @@ Welcome to my GitHub profile! I'm a Software Engineering student with a boundles
 
 ## 📚 What I'm Currently Learning
 
-- **Machine Learning for Text Classification (Bachelor's Thesis)**: Currently focused on my bachelor's degree, with a thesis centered around using machine learning for text classification. Excited to delve deep into the realm of natural language processing and AI.
-
-- **Docker and Kubernetes**: I'm diving into containerization and orchestration technologies like Docker and Kubernetes, which are crucial in modern software development and DevOps practices.
-
 - **Web3 and Blockchain**: I'm fascinated by the potential of blockchain technology and its applications. I'm learning about Web3 development and the decentralized world it offers.
 
 ## 🌱 Lifelong Learning
