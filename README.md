@@ -1,6 +1,6 @@
 ### Hi, I'm Slavko Muždeka 👋
 
-Welcome to my GitHub profile! I'm a Software Engineering student with a boundless passion for computer science and software development.
+Welcome to my GitHub profile! I'm a Software Engineer with a boundless passion for computer science and software development.
 
 ## 🔧 GitHub Profile Summary Cards
 
