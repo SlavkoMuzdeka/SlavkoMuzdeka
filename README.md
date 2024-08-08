@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a Software Engineer with a boundless passion f
 
 ## 🔧 GitHub Profile Summary Cards
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlavkoMuzdeka&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlavkoMuzdeka&theme=2077&exclude=exclude)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SlavkoMuzdeka&theme=2077&exclude=exclude)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlavkoMuzdeka&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlavkoMuzdeka&theme=github_dark&utcOffset=+2)]()
+![](https://raw.githubusercontent.com/SlavkoMuzdeka/SlavkoMuzdeka/master/profile-summary-card-output/2077/0-profile-details.svg)
+![](https://raw.githubusercontent.com/SlavkoMuzdeka/SlavkoMuzdeka/master/profile-summary-card-output/2077/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/SlavkoMuzdeka/SlavkoMuzdeka/master/profile-summary-card-output/2077/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/SlavkoMuzdeka/SlavkoMuzdeka/master/profile-summary-card-output/2077/3-stats.svg)
+![](https://raw.githubusercontent.com/SlavkoMuzdeka/SlavkoMuzdeka/master/profile-summary-card-output/2077/4-productive-time.svg)
 
 ## 📚 What I'm Currently Learning
 
